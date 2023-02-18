@@ -15,4 +15,4 @@ client = commands.Bot(
 async def abo(ctx):
     await ctx.send(f"N'oubliez pas de vous abonner à ma chaîne YouTube : https://www.youtube.com/@dinomatt37/")
 
-client.run("Votre clé")
+client.run("Votre Token")
